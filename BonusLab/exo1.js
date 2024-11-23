@@ -10,4 +10,6 @@ function arrspread (str){
     const str1= [...str]
     console.log(str1)
 }
-
+// case 1 : args = [3, 'A', 'B', 'C']
+// case 2 : args = []
+// case 3 : args = ['c', 'd']
